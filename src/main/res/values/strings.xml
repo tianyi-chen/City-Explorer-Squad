@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">City Explorer Squad</string>
+    <string name="action_about">About</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_search">Search</string>
+    <string name="dialog_message">Created by Tianyi Chen.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="list_item_album_button">album</string>
+    <string name="list_item_members_button">members</string>
+    <string name="list_item_tasks_button">tasks</string>
+    <string name="list_item_delete_button">delete</string>
+    <string name="facebook_app_id">435772236765854</string>
+
+</resources>
